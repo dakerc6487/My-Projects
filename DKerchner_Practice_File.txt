@@ -7,3 +7,6 @@
 </p>
 
 <img src="igor_shesterkin.jpg alt="Igor Shesterkin - New York Rangers Goalie">
+
+</body>
+</html>
