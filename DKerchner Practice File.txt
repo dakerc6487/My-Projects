@@ -6,4 +6,7 @@
 <p> This is my first web page that I created
 </p>
 
-<img src="igor_shesterkin.jpg alt="Igor Shesterkin - New York Rangers Goalie">
+<img src="igor_shesterkin.jpg" alt="Igor Shesterkin - New York Rangers Goalie">
+
+</body>
+</html>
